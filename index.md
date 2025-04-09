@@ -1,18 +1,20 @@
-## Portfolio
+## Abner M. Nunes, PhD
 
 ---
 
-### Category Name 1 
+### Research
 
-[Project 1 Title](/sample_page)
+[Research](/sample_page)
 <img src="images/Main.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Teaching 
+[Teaching](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+### Outreach
+[Outreach](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
