@@ -18,6 +18,9 @@ BS in Pharmacy - University of Alagoas
 ---
 
 ## Research 
+### Engineering Nanomaterials for Biomedical Applications and Mechanism Exploration
+Gold nanoparticles have been extensively researched for a variety of biomedical applications, such as drug delivery, imaging, diagnostics, and therapy, because of their tunable properties and biocompatibility.
+<img src="images/Main55.png?raw=true"/>
 
 <img src="images/Main22.png?raw=true"/>
 <img src="images/Main333.png?raw=true"/>
