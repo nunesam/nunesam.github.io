@@ -37,11 +37,6 @@ It has been shown that, over the long term, gold nanoparticles undergo a cycle o
 <img src="images/Main44.png?raw=true"/>
 
 ---
-## Teaching 
-[Teaching](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 ## Community Involvement
 
 I’m passionate about outreach and sharing science with the community. As a volunteer at the Auburn University Museum of Natural History, I have the opportunity to connect with local students, teaching them about biodiversity and science through interactive experiences with our animal ambassadors, like Bagel the turtle and Brown the ball python (pictured). 
