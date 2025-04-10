@@ -1,4 +1,4 @@
-<img src="images/Main.png?raw=true"/>
+<img src="images/Main1.png?raw=true"/>
 
 ## Abner M. Nunes, PhD
 
@@ -18,7 +18,7 @@ BS in Pharmacy - University of Alagoas
 ---
 
 ## Research 
-
+<img src="images/Main2.png?raw=true"/>
 
 ---
 ## Teaching 
