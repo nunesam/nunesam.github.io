@@ -5,7 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <i>Passionate about discovery, teaching, and making science more accessible</i> 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ábner-magalhães-nunes-4a8870197/">LinkedIn Profile</a> 
+  <a href="magalhaes.abner@gmail.com">magalhaes.abner@gmail.com</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
