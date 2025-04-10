@@ -43,8 +43,10 @@ It has been shown that, over the long term, gold nanoparticles undergo a cycle o
 
 ---
 ## Outreach
-[Outreach](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+I’m passionate about outreach and sharing science with the community. As a volunteer at the Auburn University Museum of Natural History, I enjoy engaging with visitors and bringing science to life through interactive experiences with our animal ambassadors. I’ve also had the chance to present at STEM EmpowHER, hosted by Auburn University Outreach, where I shared discussions on nanoscience and its real-world applications with female students from the community. Another highlight for me is participating in the Alabama Science and Engineering Fair, where I serve as a judge. It’s always rewarding to support young students, see their creativity, and help inspire their interest in science. These experiences are a constant reminder of why I love science and education.
+
+<img src="images/Outreach1.jpg?raw=true"/>
 
 ---
 
