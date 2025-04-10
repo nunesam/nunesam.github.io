@@ -18,7 +18,8 @@ BS in Pharmacy - University of Alagoas
 ---
 
 ## Research 
-<img src="images/Main2.png?raw=true"/>
+
+<img src="images/Main22.png?raw=true"/>
 
 ---
 ## Teaching 
