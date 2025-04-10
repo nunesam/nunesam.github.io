@@ -1,5 +1,3 @@
----
-
 <img src="images/Main.png?raw=true"/>
 
 ## Abner M. Nunes, PhD
