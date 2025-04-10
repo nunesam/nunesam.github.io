@@ -47,19 +47,10 @@ I’ve also had the chance to present at STEM EmpowHER, hosted by Auburn Univers
 
 ---
 
-### Category Name 2
+### Publications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [ORCiD](https://orcid.org/0000-0002-4909-9713)
+- [Google Scholar](https://scholar.google.com/citations?user=eSMn3acAAAAJ&hl=pt-BR)
+- [LinkedIn](https://www.linkedin.com/in/ábner-magalhães-nunes-4a8870197/)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
