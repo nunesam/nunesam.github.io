@@ -22,7 +22,7 @@ BS in Pharmacy - University of Alagoas
 Gold nanoparticles have been extensively researched for a variety of biomedical applications, such as drug delivery, imaging, diagnostics, and therapy, because of their tunable properties and biocompatibility.
 <img src="images/Main55.png?raw=true"/>
 
-Modifying nanoparticles' surfaces with biomolecules such as DNA, peptides, miRNA, or therapeutic agents can directly influence their cellular interactions, biodistribution, and overall biomedical fate. Designing new, more specific nanomaterials is essential for improving targeting efficiency and therapeutic outcomes—making this an especially exciting and rewarding area of research to pursue.
+Modifying nanoparticles' surfaces with biomolecules such as DNA, peptides, miRNA, or therapeutic agents can directly influence their cellular interactions, biodistribution, and overall biomedical fate. My research interest lies in exploring these surface modifications to contribute to the development of cutting-edge nanomaterials with the potential to transform therapeutic strategies—from precision drug delivery to clinical interventions—while ensuring their safe and responsible use in medical settings.
 
 <img src="images/Main22.png?raw=true"/>
 <img src="images/Main333.png?raw=true"/>
