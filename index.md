@@ -21,6 +21,7 @@ BS in Pharmacy - University of Alagoas
 
 <img src="images/Main22.png?raw=true"/>
 <img src="images/Main333.png?raw=true"/>
+<img src="images/Main44.png?raw=true"/>
 
 ---
 ## Teaching 
