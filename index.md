@@ -24,6 +24,8 @@ Gold nanoparticles have been extensively researched for a variety of biomedical 
 
 Modifying nanoparticles' surfaces with biomolecules such as DNA, peptides, miRNA, or therapeutic agents can directly influence their cellular interactions, biodistribution, and overall biomedical fate. My research interest lies in exploring these surface modifications to contribute to the development of cutting-edge nanomaterials with the potential to transform therapeutic strategies—from precision drug delivery to clinical interventions—while ensuring their safe and responsible use in medical settings.
 
+### Nanoparticle Fate and Intercellular Communication
+
 <img src="images/Main22.png?raw=true"/>
 <img src="images/Main333.png?raw=true"/>
 <img src="images/Main44.png?raw=true"/>
