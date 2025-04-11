@@ -20,6 +20,7 @@ BS in Pharmacy - University of Alagoas
 ### Engineering Nanomaterials for Biomedical Applications
 Gold nanoparticles have been widely explored for diverse biomedical applications, including drug delivery, imaging, diagnostics, and therapy, due to their unique tunable properties and relative biocompatibility. They hold significant promise in clinical research, with some  gold-based nanoformulations advancing in clinical trials, targeting conditions such as advanced and metastatic solid tumors, glioblastoma, Parkinson's disease, multiple and amyotrophic lateral sclerosis, type 1 diabetes, and arthritis.
 <img src="images/Main55.png?raw=true"/>
+<i>Surface modifications of nanoparticles play a key role in determining their downstream applications</i>
 
 A key aspect driving their biomedical potential lies in surface modification. Functionalizing nanoparticles with biomolecules such as [protein](https://doi.org/10.1016/j.tox.2018.12.002), [polysaccharide](https://doi.org/10.1016/j.ijbiomac.2021.06.172), DNA, miRNA, or therapeutic agents can directly influence their cellular interactions, biodistribution, and overall biomedical fate. Investigating these surface modifications holds great promise for engineering nanomaterials that not only enhance therapeutic efficacy but also offer innovative solutions for diseases that currently lack effective treatments.
 
