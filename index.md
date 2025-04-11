@@ -26,11 +26,11 @@ Modifying nanoparticles' surfaces with biomolecules such as DNA, peptides, miRNA
 
 ### Nanoparticle Fate and Intercellular Communication
 
-The localization of gold nanoparticles within cells is crucial for determining their fate and the mechanisms through which they impact cellular functions. The precise subcellular distribution of these nanoparticles can influence their interactions with organelles, cellular signaling pathways, and overall biological activity.
+While interacting with cells, the localization of nanoparticles is crucial for determining their fate and the mechanisms through which they impact cellular functions. The precise subcellular distribution of these nanoparticles can influence their interactions with organelles, cellular signaling pathways, and overall biological activity.
 <img src="images/Main22.png?raw=true"/>
 <i>Human dermal fibroblasts exposed to gold nanoparticles</i>
 
-It has been shown that, over the long term, gold nanoparticles undergo a cycle of biodegradation and recrystallization within lysosomes, ultimately forming biopersistent nanostructures. However, much remains unknown about this process, particularly how these biopersistent structures may affect cellular homeostasis and contribute to long-term biological responses. Additionally, the mechanisms of exocytosis of these nanoparticles are not well understood, yet they may play a significant role in cell–cell communication. It is also possible that these nanoparticles, through exocytosis, could be involved in the release of extracellular vesicles like exosomes, which are known to mediate intercellular signaling. Exploring these processes is essential for enhancing our understanding of nanoparticle behavior within biological systems and for optimizing their design to ensure both their efficacy and safety in biomedical applications.
+Gold nanoparticles specially undergo a cycle of biodegradation and recrystallization within lysosomes, ultimately forming biopersistent nanostructures. However, much remains unknown about this process, particularly how these biopersistent structures may affect cellular homeostasis and contribute to long-term biological responses. Additionally, the mechanisms of exocytosis of these nanoparticles are not well understood. This process may be crucial not only for cellular clearance but also for mediating intercellular communication. The intracellular trafficking routes of gold nanoparticles often significantly overlap with those involved in the biogenesis of small extracellular vesicles (exosomes). This intersection suggests that AuNPs could influence exosome formation and function, which may have downstream effects on intracellular signaling.
 
 ### Mechanism of Interaction
 
