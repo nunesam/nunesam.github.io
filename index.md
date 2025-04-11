@@ -28,6 +28,7 @@ A key aspect driving their biomedical potential lies in surface modification. Fu
 The physicochemical properties of nanoparticles—such as size, shape, and surface chemistry—play a critical role in how they interact with cells and organelles. For example, gold nanorods have shown selective interaction in certain cancer cells, suggesting their potential for targeted therapies. In some of my previous [works](https://doi.org/10.1007/s11051-022-05410-w), I investigated the role of the nanoparticles shape and found that gold nanospheres and nanorods differentially affect isolated mitochondria, highlighting distinct mechanisms of interaction. Understanding these differences is key to designing nanoparticles with optimized therapeutic performance and minimal off-target effects.
 
 <img src="images/Main44.png?raw=true"/>
+<i>Mitochondrial responses vary with the shape of gold nanoparticles</i>
 
 ### Nanoparticle Clearance and Intercellular Communication
 
