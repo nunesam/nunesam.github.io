@@ -18,11 +18,11 @@ BS in Pharmacy - University of Alagoas
 ---
 
 ## Research Interest
-### Engineering Nanomaterials for Biomedical Applications and Mechanism Exploration
-Gold nanoparticles have been extensively researched for a variety of biomedical applications, such as drug delivery, imaging, diagnostics, and therapy, because of their tunable properties and biocompatibility.
+### Engineering Nanomaterials for Biomedical Applications
+Gold nanoparticles have been widely explored for diverse biomedical applications, including drug delivery, imaging, diagnostics, and therapy, due to their unique tunable properties and relative biocompatibility. They hold significant promise in clinical research, with some  gold-based nanoformulations advancing in clinical trials, targeting conditions such as advanced and metastatic solid tumors, glioblastoma, Parkinson's disease, multiple and amyotrophic lateral sclerosis, type 1 diabetes, and arthritis.
 <img src="images/Main55.png?raw=true"/>
 
-Modifying nanoparticles' surfaces with biomolecules such as DNA, peptides, miRNA, or therapeutic agents can directly influence their cellular interactions, biodistribution, and overall biomedical fate. Investigating these surface modifications holds great promise for engineering nanomaterials that not only enhance therapeutic efficacy but also offer innovative solutions for diseases that currently lack effective treatments.
+A key aspect driving their biomedical potential lies in surface modification. Functionalizing nanoparticles with biomolecules such as DNA, peptides, miRNA, or therapeutic agents can directly influence their cellular interactions, biodistribution, and overall biomedical fate. Investigating these surface modifications holds great promise for engineering nanomaterials that not only enhance therapeutic efficacy but also offer innovative solutions for diseases that currently lack effective treatments.
 
 ### Nanoparticle Fate and Intercellular Communication
 
@@ -32,7 +32,9 @@ While interacting with cells, the localization of nanoparticles is crucial for d
 
 Gold nanoparticles specially undergo a cycle of biodegradation and recrystallization within lysosomes, ultimately forming biopersistent nanostructures. However, much remains unknown about this process, particularly how these biopersistent structures may affect cellular homeostasis and contribute to long-term biological responses. Additionally, the mechanisms of exocytosis of these nanoparticles are not well understood. This process may be crucial not only for cellular clearance but also for mediating intercellular communication. The intracellular trafficking routes of gold nanoparticles often significantly overlap with those involved in the biogenesis of small extracellular vesicles (exosomes). This intersection suggests that AuNPs could influence exosome formation and function, which may have downstream effects on intracellular signaling.
 
-### Mechanism of Interaction
+### Impact of Nanoparticle Physicochemical Properties on Interactions with Cells and Organelles
+
+The physicochemical properties of nanoparticles—such as size, shape, and surface chemistry—play a critical role in how they interact with cells and organelles. For example, gold nanorods have shown selective uptake in certain cancer cells, suggesting their potential for targeted therapies. In my previous work, I investigated the role of the nanoparticles shape and found that gold nanospheres and nanorods differentially affect isolated mitochondria, highlighting distinct mechanisms of interaction. Understanding these differences is key to designing nanoparticles with optimized therapeutic performance and minimal off-target effects.
 
 <img src="images/Main44.png?raw=true"/>
 
