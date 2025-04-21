@@ -2,7 +2,7 @@
 
 ## Abner M. Nunes, PhD
 
-I am a postdoctoral researcher at Auburn University with expertise in the synthesis, characterization, and application of engineered nanoparticles, particularly gold nanoparticles, as therapeutic agents. With a Master's in Pharmacy and a PhD in Chemistry, I’m fascinated by the potential of nanomedicine to transform healthcare. My research interest focuses on understanding how the unique properties of nanoparticles—such as size, shape, and surface coating—affect their interactions with biological systems. I am particularly interested in their intracellular trafficking, mitochondrial targeting, and clearance mechanisms, while ensuring that these nanoparticles are both effective and safe.
+I am a postdoctoral researcher at Auburn University with expertise in the synthesis, characterization, and application of engineered nanoparticles, particularly gold nanoparticles, as therapeutic agents. With a Master's in Pharmacy and a PhD in Chemistry, I’m fascinated by the potential of nanomedicine to transform healthcare. My research interest focuses on understanding how the unique properties of nanoparticles (such as size, shape, and surface coating) affect their interactions with biological systems. I am particularly interested in their intracellular trafficking, mitochondrial targeting, and clearance mechanisms, while ensuring that these nanoparticles are both effective and safe.
 Driven by a passion for advancing nanomedicine, I aim to contribute to the development of new nanomaterials that have the potential to revolutionize therapeutic approaches.
 
 ---
