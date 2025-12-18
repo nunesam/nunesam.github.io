@@ -2,17 +2,26 @@
 
 ## Abner M. Nunes, PhD
 
-I am a postdoctoral researcher at Auburn University with expertise in the synthesis, characterization, and application of engineered nanoparticles, particularly gold nanoparticles, as therapeutic agents. With a Master's in Pharmacy and a PhD in Chemistry, I’m fascinated by the potential of nanomedicine to transform healthcare. My research interest focuses on understanding how the unique properties of nanoparticles (such as size, shape, and surface coating) affect their interactions with biological systems. I am particularly interested in their intracellular trafficking, mitochondrial targeting, and clearance mechanisms, while ensuring that these nanoparticles are both effective and safe.
+I am an Assistant Professor of Chemistry at Abraham Baldwin Agricultural College, with expertise in the synthesis, characterization, and application of engineered nanoparticles, particularly gold nanoparticles, as therapeutic agents. With a Master's in Pharmacy and a PhD in Chemistry, I’m fascinated by the potential of nanomedicine to transform healthcare. My research interest focuses on understanding how the unique properties of nanoparticles (such as size, shape, and surface coating) affect their interactions with biological systems. I am particularly interested in their intracellular trafficking, mitochondrial targeting, and clearance mechanisms, while ensuring that these nanoparticles are both effective and safe.
 Driven by a passion for advancing nanomedicine, I aim to contribute to the development of new nanomaterials that have the potential to revolutionize therapeutic approaches.
 
 ---
 ## Education
+
+Research Scholar - Department of Chemistry, University of Illinois at Urbana-Champaign
 
 PhD in Chemistry and Biotechnology - University of Alagoas
 
 MSc Pharmaceutical Sciences - University of Alagoas
 
 BS in Pharmacy - University of Alagoas
+
+---
+## Professional Experience
+
+Assistant Professor of Chemistry – Department of Science and Mathematics, Abraham Baldwin Agricultural College
+
+Postdoctoral Researcher - Department of Biological Sciences, Auburn University
 
 ---
 
